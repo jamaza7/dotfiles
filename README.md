@@ -1,3 +1,5 @@
 # Dotfiles
 
-- Test link simbolic
+- Configuration kitty
+- Configuration nvim 
+
