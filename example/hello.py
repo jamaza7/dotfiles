@@ -1,0 +1,1 @@
+/home/jamaza/.config/example/hello.py
